@@ -1,3 +1,7 @@
+**THE FINAL REPORT IS IN THE SAME REPOSITORY ABOVE **
+
+NAME OF THE REPORT **R_Pardhu_Week2_Final_Report.pdf**
+
 This Repo contains all the screenshots of my Week2 projects
 Wk2-PM1-Footprinting using multiple kali linux tools
 Wk2-PM3-Footprinting using Maltego
