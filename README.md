@@ -11,4 +11,4 @@ Wk2-PM5-Network Scanning using zenmap
 
 During this projects I got to know about many tools for Reconnaissance which is the first step of penetration testing.
 Faced difficulties while using tools at first but yeah finally got the output.
-Still have to work on the tools....
+Have to work on tools in depth
